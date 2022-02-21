@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<licenses>
+  <license>
+    <issueNo>202202211006524780001</issueNo>
+    <issueDate>20220221100652</issueDate>
+    <type>Enterprise</type>
+    <customerName>LX PANTOS</customerName>
+    <systemName>MMS</systemName>
+    <systemType>DEV-WAS</systemType>
+    <macAddress>UNLIMITED</macAddress>
+    <lenaHome>UNLIMITED</lenaHome>
+    <contractCpuCoreLimit>2</contractCpuCoreLimit>
+    <cpuCoreLimit>4</cpuCoreLimit>
+    <contractInstanceLimit>UNLIMITED</contractInstanceLimit>
+    <instanceLimit>UNLIMITED</instanceLimit>
+    <startDate>20220221</startDate>
+    <endDate>20221231</endDate>
+    <nodeUUID>fa6c1d9ebb005b79e403939cc40a6e48a633ff77c23746366d1586d56d565cf4</nodeUUID>
+    <managerAddress>UNLIMITED</managerAddress>
+    <wasContractCpuCoreDayLimit>UNLIMITED</wasContractCpuCoreDayLimit>
+    <wasCpuCoreDayLimit>UNLIMITED</wasCpuCoreDayLimit>
+    <webContractCpuCoreDayLimit>UNLIMITED</webContractCpuCoreDayLimit>
+    <webCpuCoreDayLimit>UNLIMITED</webCpuCoreDayLimit>
+    <reissuance>N</reissuance>
+    <usePostPaid>N</usePostPaid>
+    <licenseKey>GzN0nEmzj9onNkDpAg16a+EFQ9Kg9IazkSXpBdA+f3fNOH70wLEVohpWI6zgI/Tvwjkq/3tXjhifRJW8wwix6vmzKxpT4sMegvvBd6X/YUS181Mxfxwnu7lu4HHTaBZYk5zJ0E0nyn1c/HEKKTy4YLDzb1pft3LqM5Dn6GXePx7C6y+EVyuXNYS/mXSxjcsbFYhwZNNRAUcbPzzZIXZqNvKkSZffEtYo+BvWqtZZDikRxhXVlfSX7cUaQ8Hr5Q+FBeESLUPe0E1qF/ga7BM+ul3RoCj+fLlIDrbXj/ZDzszjnybfAX4DaOAw05PoZ97Fu5iPuj2KF3B+h5uZh0BczQ==</licenseKey>
+  </license>
+  <license>
+    <issueNo>202202211006524780001</issueNo>
+    <issueDate>20220221100652</issueDate>
+    <type>Enterprise</type>
+    <customerName>LX PANTOS</customerName>
+    <systemName>MMS</systemName>
+    <systemType>DEV-WEB</systemType>
+    <macAddress>UNLIMITED</macAddress>
+    <lenaHome>UNLIMITED</lenaHome>
+    <contractCpuCoreLimit>2</contractCpuCoreLimit>
+    <cpuCoreLimit>4</cpuCoreLimit>
+    <contractInstanceLimit>UNLIMITED</contractInstanceLimit>
+    <instanceLimit>UNLIMITED</instanceLimit>
+    <startDate>20220221</startDate>
+    <endDate>20221231</endDate>
+    <nodeUUID>8855be9051ff3716855d213faa4b94f4d781e9c8e1a3bdfb1a4b6a60ef9fd1c6</nodeUUID>
+    <managerAddress>UNLIMITED</managerAddress>
+    <wasContractCpuCoreDayLimit>UNLIMITED</wasContractCpuCoreDayLimit>
+    <wasCpuCoreDayLimit>UNLIMITED</wasCpuCoreDayLimit>
+    <webContractCpuCoreDayLimit>UNLIMITED</webContractCpuCoreDayLimit>
+    <webCpuCoreDayLimit>UNLIMITED</webCpuCoreDayLimit>
+    <reissuance>N</reissuance>
+    <usePostPaid>N</usePostPaid>
+    <licenseKey>GzN0nEmzj9onNkDpAg16a+EFQ9Kg9IazkSXpBdA+f3fNOH70wLEVohpWI6zgI/Tvwjkq/3tXjhifRJW8wwix6vmzKxpT4sMegvvBd6X/YUS181Mxfxwnu7lu4HHTaBZYk5zJ0E0nyn1c/HEKKTy4YLDzb1pft3LqM5Dn6GXePx7C6y+EVyuXNYS/mXSxjcsbFYhwZNNRAUcbPzzZIXZqNvKkSZffEtYo+BvWqtZZDikRxhXVlfSX7cUaQ8Hr5Q+FBeESLUPe0E1qF/ga7BM+ul3RoCj+fLlIDrbXj/ZDzszjnybfAX4DaOAw05PoZ97Fu5iPuj2KF3B+h5uZh0BczQ==</licenseKey>
+  </license>
+</licenses>
