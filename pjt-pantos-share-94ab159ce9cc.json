@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pjt-pantos-share",
+  "private_key_id": "94ab159ce9ccb239874b5a7ffdb47b45f7c170fd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKOyJwv4hx+mU9\nHukRjUHHqDbE1xlzsu3xnMihrtKMK/SyolBwDicnsgsCjuUoonEYGH5OJRKXadyw\nGQ5C5MUZGfoYRsF3Gps8IfGq7gyJhjhpqkGL3hQ+I4ZK9Us4sbSryzdULC50Uf1m\nLco1zPWjg48VRx5EV0WyoIbLw0ixEQhD8aKDXemSdX5PjqbgbGEr4iB3BMqb1h1O\nn5vcGgNcHoSMoBVqsz33+1T8cwaIBH+2lAcE6yfi5G3vrva3Yn/WqjX70wcROW0G\nqkQW6r4bQI9JMTWpUpGKyEu/UCN8HtION9kPmbarZVRwG6n1TG25K5A6U4F2FQlX\nB/HtsUw1AgMBAAECggEADDSoffyZbCOsQ5WfhI8thrLo51WCNED66ofHdja6f3pR\nsQxp5XF9PICa+IMOYrb3M3ia+vVy20+o4boJadEr8jlmplty5tDkyKrVzrbCa/R9\naCc+AIadWyjCvLh0W04idPH1e2+VODEQpb+iwj+GHeHdW2/o7EAGNWNJ73dwZjtg\n5WRQ+ZhLbHyXatKBRSLmEthPlP2CiFUMijcLnWe+szW3JSME31KeLQDqgx5vHXVY\na8h6CrJ7y18OdzAFGKVXfLA3EOhT6v7nZD0DECNcQ2s/R24LG7u5goz7pH/O1Uv4\njd4gJJ993Jpx0zTQPNwvXRWPiWGsZHH3AbDCirb8kQKBgQD09GpswNI4MRUJC0M7\nuq/DspUoqZZJu1zsVcfCJK2XdnNgzHI0pD21cTRYIB7dKYUL9jpBHBhRoBSqlEBS\n/1zGVkZ+v5J/K082Eh8KnGMZpFD1Dc8ekGCzNBL0XGEpoYyA8UXGMYV4BJP418PS\nIIU6VnvxgmrylrwBHfzvCRO86QKBgQDTWYvICG0Dr59OswDSoCTM/rIx3oMEqDGv\nGCE4uooGKQPhUz6sGndgv4fifCiGcYcxqfbT2GpY186C+jD5sErWRIKq9oXsCAis\nN/0D4XjT83ThaZrQmXUKTFI+FQOJEojgm5dNnf9fns4YFRT9rl8uYnbilMB6iu4F\nTOUSAbzVbQKBgCep/CGoB2I58GIKhNSDIjraC/UNoNxHjoBmU3ZIYiOIdp5R/Jwx\njBx5PDSY3uaI9pY9RKmOVxHAjhgg8Vl/KBKlnbygYKRe6vCidoxNTm60gLdtiQA1\n+LKL2BXhb4pCMnIen2G8WxRYCW3d4kOAKJKNtnwg1hh59+9mX7KFEcEhAoGANx3c\nIS9pVpO/ROPTrBoNXtRxHiY8HsPKKTJuv3+OLSsXEvUFnBZO2ZE5W6wrWVxT+HSt\npPOEUGT/OxMKIKOD8LrvJKyjojk6Icd8GT38p7GO4pYKxKmwZx4eOIh8YovN3F1X\nKOuyRHqCnq8oyTtnIQ6WmGJYi9ydVA6IkpiXaUUCgYEA4HcG6urIqzyG0d7uVXyD\nzrwmWpqB/+5P8yMyug67xdvMf3E1K89Xhj++XCXyaanIVoUpHTvAUmdaUJ1ZST2d\ngAVXDHhgFhyy/yXPnjBoVdwhl6exQNS+BVBf4MeYToz68w3PB3w4u6mIaZPF4xhp\nbsMDtQeBOq+BCKoGYRe3BT4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sacc-prd-gcs-access@pjt-pantos-share.iam.gserviceaccount.com",
+  "client_id": "116959999922656392063",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sacc-prd-gcs-access%40pjt-pantos-share.iam.gserviceaccount.com"
+}
